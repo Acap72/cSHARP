@@ -1,6 +1,0 @@
-C:\Users\Andrew\Desktop\Umass\Summer2014\cSharp\UMass.Assignment5\UMass.Assignment5\bin\Debug\UMass.Assignment5.exe.config
-C:\Users\Andrew\Desktop\Umass\Summer2014\cSharp\UMass.Assignment5\UMass.Assignment5\obj\Debug\UMass.Assignment5.csprojResolveAssemblyReference.cache
-C:\Users\Andrew\Desktop\Umass\Summer2014\cSharp\UMass.Assignment5\UMass.Assignment5\bin\Debug\UMass.Assignment5.exe
-C:\Users\Andrew\Desktop\Umass\Summer2014\cSharp\UMass.Assignment5\UMass.Assignment5\bin\Debug\UMass.Assignment5.pdb
-C:\Users\Andrew\Desktop\Umass\Summer2014\cSharp\UMass.Assignment5\UMass.Assignment5\obj\Debug\UMass.Assignment5.exe
-C:\Users\Andrew\Desktop\Umass\Summer2014\cSharp\UMass.Assignment5\UMass.Assignment5\obj\Debug\UMass.Assignment5.pdb
